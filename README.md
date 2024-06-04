@@ -55,5 +55,5 @@ The implemented evaluation metrics are  **Recall**, **MAP**, **MRR** and **Preci
 ## Students
  [**Walaa Almshaawet**] (https://github.com/walaa2020)
  [**Rama Fareha**]
- [**kinan maktaby**]
+ [**kinan maktaby**] (https://github.com/KenanAlmaktaby)
  [**lana khadra**]
